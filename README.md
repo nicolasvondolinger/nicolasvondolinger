@@ -1,8 +1,9 @@
 ### Perfil do Nicolas von Dolinger 🇧🇷
 
 
-- 🔭 Trabalho atualmente com Desenvolvimento Web
-- 🌱 Estou me aprofundando em Git e Java Script
+- 👨🏻‍💻 Graduando em Sistemas de Informação na Universidade Federal de Minas Gerais (UFMG | DCC)
+- 🌱 Estou me aprofundando em Git, JS e C
+
 
 <div align="center">
   <a href="https://github.com/nicolasvondolinger">
