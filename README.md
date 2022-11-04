@@ -1,4 +1,4 @@
-### Perfil do Nicolas von Dolinger 🇧🇷
+### Nicolas von Dolinger 🇧🇷
 
 
 - 👨🏻‍💻 Graduando em Sistemas de Informação na Universidade Federal de Minas Gerais (UFMG | DCC)
