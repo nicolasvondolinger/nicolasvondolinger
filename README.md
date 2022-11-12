@@ -3,6 +3,8 @@
 
 - 👨🏻‍💻 Graduating in Information Systems at the Federal University of Minas Gerais - UFMG | DCC
 - 🌱 Studying JavaScript, HTML, CSS and C
+- 19yo
+- Email: nicolasvondolinger@gmail.com
 
 
 <div align="center">
