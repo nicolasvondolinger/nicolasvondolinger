@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 Graduating in Information Systems at the Federal University of Minas Gerais - UFMG | DCC
 - 🌱 Studying JavaScript, HTML, CSS and C/C++
-- 19yo
+- 20yo
 - Email: nicolasvondolinger@gmail.com
 
 
@@ -31,5 +31,3 @@
   <a href="https://www.linkedin.com/in/nicolas-von-dolinger-5a7036207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-  
-  ![snake gif](https://github.com/nicolasvondolinger/nicolasvondolinger/blob/output/github-contribution-grid-snake.gif)
