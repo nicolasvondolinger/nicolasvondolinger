@@ -1,7 +1,7 @@
 <h1>Nicolas von Dolinger 🇧🇷</h1>
 
 
-- 👨🏻‍💻 Graduating in Information Systems at the Federal University of Minas Gerais - UFMG | DCC
+- 👨🏻‍💻 Graduating in Computer Science at the Federal University of Minas Gerais - UFMG | DCC
 - 🌱 Studying JavaScript, HTML, CSS and C/C++
 - 20yo
 - Email: nicolasvondolinger@gmail.com
